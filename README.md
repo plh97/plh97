@@ -5,7 +5,7 @@
 ### Introduction
 - 🔭 I’m currently working on [Admin Platform](https://github.com/plh2/admin-platform)
 - 🌱 I’m currently learning about [Blockchain](https://roadmap.sh/blockchain) and [Backend](https://roadmap.sh/backend).
-- 💬 Ask me about AST transforming in a language with ownership.
+- 💬 Ask me about XXX(I don't know anything).
 - 📫 How to reach me: Found me on [twitter](https://twitter.com/plh05)!
 
 
