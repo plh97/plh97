@@ -4,8 +4,8 @@
 
 ### Introduction
 - 🔭 I’m currently working on [Admin Platform](https://github.com/plh2/admin-platform) and Echart
-- 🌱 I’m currently learning about [Blockchain](https://roadmap.sh/blockchain), [eth-develop](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) and [Backend](https://roadmap.sh/backend).
-- 💬 Ask me about XXX(I don't know anything).
+- 🌱 I’m currently learning about [Blockchain](https://roadmap.sh/blockchain), [eth-develop](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) and [Backend](https://roadmap.sh/backend), SRE[[terraform](https://terraform.io/), [ansible](https://www.ansible.com/)].
+- 💬 Ask me about Frontend, web3 contract, SRE.
 - 📫 How to reach me: Found me on [twitter](https://twitter.com/plh05)!
 
 
