@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Herrington's GitHub stats](https://github-readme-stats.vercel.app/api?username=plh97)](https://github.com/plh97)
+[![Herrington's GitHub stats](https://github-readme-stats.vercel.app/api?username=plh97)](https://github.com/plh97/plh97)
 
 ### Introduction
 - 🔭 I’m working on [p2p Platform](https://www.okx.com/cn/p2p-markets/cny/buy-usdt) and [Chatroom](https://github.com/plh97/chatroom)
