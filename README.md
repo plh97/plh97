@@ -16,4 +16,4 @@
 
 ### Leetcode
 
-![](https://leetcard.jacoblin.cool/plh2)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/plh2)](https://leetcode.com/plh2)
