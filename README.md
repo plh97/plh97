@@ -4,7 +4,7 @@
 
 ### Introduction
 - 🔭 I’m working on [connect-wallet](https://github.com/plh97/connect-wallet)
-- 🌱 I’m learning about [Blockchain](https://roadmap.sh/blockchain), [eth-develop](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) and [Backend](https://roadmap.sh/backend), SRE[[terraform](https://terraform.io/), [ansible](https://www.ansible.com/)].
+- 🌱 I’m learning about [Blockchain](https://roadmap.sh/blockchain), [eth-develop](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) and [Backend](https://roadmap.sh/backend), SRE[[Terraform](https://terraform.io/), [Ansible](https://www.ansible.com/)].
 - 💬 Ask me about Frontend, web3 contract, SRE.
 - 📫 How to reach me: PM me on [X](https://twitter.com/plh_097)! or [Chat](https://c.plhh.org/), or [Blog](https://plhh.org/)
 
