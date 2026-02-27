@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Joy 👋
 
 [![Herrington's GitHub stats](https://github-readme-stats.vercel.app/api?username=plh97)](https://github.com/plh97)
 
