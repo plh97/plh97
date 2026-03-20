@@ -5,7 +5,6 @@
 ### 👨‍💻 System Architecture & Backend Engineering
 I am a Senior Full-Stack Engineer with a decade of experience building high-concurrency, scalable systems. My core focus is on robust backend architecture, distributed systems, and secure fintech workflows. 
 
-- 🌍 **Current Node:** Tokyo, Japan (Setagaya).
 - 🔭 **Currently architecting:** High-availability backend services using **Go** and **Vue**, with a strong focus on distributed state machines and secure C2C trading engines.
 - 🌱 **Actively upgrading:** Japanese (Business proficiency) and Web3 Exchange Compliance Architecture.
 - ⚡ **Core Stack:** Go, Kratos framework, Vue.js, Redis, Distributed Locks, and Microservices.
